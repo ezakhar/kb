@@ -1,6 +1,6 @@
 # Languages
 
-* [Russian](ru/)
+* [Русский](ru/)
 * [English](en/)
 
 
