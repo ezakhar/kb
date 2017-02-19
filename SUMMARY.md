@@ -1,10 +1,11 @@
-# [Основы](/Basics/README.md)
+# Summary
 
-* #### [Первое](/Basics/first-question.md)
+* [Introduction](README.md)
+* [Первое](/Basics/first-question.md)
 
-### [Настройки](/Settings/README.md)
+## [Настройки](/Settings/README.md)
 
-### [Спортсмены](/Athletes/README.md)
+## [Спортсмены](/Athletes/README.md)
 
 
 
