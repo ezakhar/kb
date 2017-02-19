@@ -6,7 +6,5 @@
 * [Настройки](/Settings/README.md)
   * [Как сделать Y](/Settings/how-can-i-do-y.md)
 * [Спортсмены](/Athletes/README.md)
-  * [Третье](/Athletes/second-question.md)
-
-
+  * [Как сделать Х](/Athletes/second-question.md)
 
